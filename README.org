@@ -1,0 +1,6 @@
+#+TITLE: DOTFILES configuration
+#+AUTHOR: Hardik Hedaoo
+
+** Getting Started
+
+    This is a config repository for alacritty, neovim, and emacs.
