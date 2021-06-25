@@ -4,3 +4,4 @@
 ** Getting Started
 
     This is a config repository for alacritty, neovim, and emacs.
+    I'll be adding more config files to the repository soon.. 
